@@ -76,19 +76,6 @@
          unpack="false"/>
 
    <plugin
-         id="org.eclipse.ui.intro"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.eclipse.ui.intro.universal"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"/>
-
-   <plugin
          id="org.eclipse.help"
          download-size="0"
          install-size="0"
@@ -151,7 +138,6 @@
          version="0.0.0"
          unpack="false"/>
 
-
    <plugin
          id="edu.usc.cssl.tacit.crawlers.americanpresidency"
          download-size="0"
@@ -179,8 +165,8 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
-    <plugin
+
+   <plugin
          id="edu.usc.cssl.tacit.crawlers.govtrack"
          download-size="0"
          install-size="0"
@@ -269,7 +255,7 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
+
    <plugin
          id="edu.usc.cssl.tacit.topicmodel.onlinelda"
          download-size="0"
@@ -284,7 +270,6 @@
          version="0.0.0"
          unpack="false"/>
 
-
    <plugin
          id="edu.usc.cssl.tacit.topicmodel.turbotopics"
          download-size="0"
@@ -298,7 +283,7 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
+
    <plugin
          id="edu.usc.cssl.tacit.topicmodel.hlda"
          download-size="0"
@@ -312,7 +297,8 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-<plugin
+
+   <plugin
          id="edu.usc.cssl.tacit.topicmodel.slda"
          download-size="0"
          install-size="0"
@@ -325,6 +311,7 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
+
    <plugin
          id="edu.usc.cssl.tacit.wordcount.standard.ui"
          download-size="0"
@@ -415,7 +402,7 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
+
    <plugin
          id="edu.usc.cssl.tacit.crawlers.plosone"
          download-size="0"
@@ -457,7 +444,7 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
+
    <plugin
          id="edu.usc.cssl.tacit.topicmodel.hdp"
          download-size="0"
@@ -478,8 +465,8 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
-  <plugin
+
+   <plugin
          id="edu.usc.cssl.tacit.chinesecount"
          download-size="0"
          install-size="0"
@@ -506,8 +493,8 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
-         <plugin
+
+   <plugin
          id="edu.usc.cssl.tacit.crawlers.frontier"
          download-size="0"
          install-size="0"
@@ -527,35 +514,33 @@
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
+
    <plugin
          id="edu.usc.cssl.tacit.classify.id3.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-        
+
    <plugin
          id="edu.usc.cssl.tacit.classify.id3"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
+
    <plugin
          id="edu.usc.cssl.tacit.crawlers.gutenberg.ui"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
+
    <plugin
          id="edu.usc.cssl.tacit.crawlers.gutenberg"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
-         
-         
 
 </feature>

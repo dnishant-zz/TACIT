@@ -7,8 +7,6 @@ Bundle-Activator: edu.usc.cssl.tacit.common.ui.CommonUiActivator
 Bundle-Vendor: USC
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
- org.eclipse.ui.intro,
- org.eclipse.ui.intro.universal,
  org.eclipse.help.ui,
  org.eclipse.help.webapp,
  org.eclipse.ui.forms,
